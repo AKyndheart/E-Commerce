@@ -76,7 +76,7 @@ button:active {
 .nav__container {
     width: 100%;
     max-width: 1200px;
-    padding: 16px, 24px;
+    padding: 4px 16px 4px 4px;
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
@@ -330,7 +330,7 @@ h2 {
     flex-wrap: wrap;
 }
 
-/* browse__books*/
+/* BROWSE BOOKS */
 
 #browse__books {
     background-color: rgb(115, 66, 214, 0.1);
@@ -350,7 +350,7 @@ h2 {
     font-size: 20px;
 }
 
-/* FOOTER*/
+/* FOOTER */
 
 footer {
     background-color: #242424;
